@@ -1,4 +1,4 @@
-ame: Resume ci Build
+name: Resume ci Build
 on:
   push:
     branches: [ "main" ]
